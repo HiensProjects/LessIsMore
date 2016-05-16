@@ -300,6 +300,10 @@ ul#works_filter li a.selected {
   padding: 0px !important;
   margin: 0px;
 }
+.social_icons li a {
+  display: inline-block;
+  height: 100%;
+}
 .social_icons li img {
   border: 0px !important;
 }
